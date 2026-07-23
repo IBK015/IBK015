@@ -1,4 +1,4 @@
-### Environmental Engineer · EIA/ESIA & Infrastructure Sustainability · MSc Spatial Engineering @ University of Twente (ITC)
+### Environmental Engineer · Urban Heat · Digital Twin · MSc Spatial Engineering @ University of Twente (ITC)
 
 Six years running environmental impact assessments for donor-funded infrastructure across Bangladesh — now building formal GIS, remote sensing, and disaster-risk analysis skills in the Netherlands.
 
