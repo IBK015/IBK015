@@ -8,7 +8,7 @@
 
 ### Civil & Environmental Engineer · GIS, Urban Heat & Digital Twin Research · MSc Spatial Engineering @ University of Twente (ITC)
 
-I've spent six years turning field data into the EIA/ESIA reports that decide whether infrastructure gets built — now I'm learning to model that same kind of impact spatially: heat, flooding, and change over time.
+I've spent six years turning field data into the EIA/ESIA reports that decide whether infrastructure gets built. Now I'm learning to model that same kind of impact spatially: heat, flooding, and change over time.
 
 [**Portfolio**](https://ibk015.github.io/IBK/) · [**LinkedIn**](https://www.linkedin.com/in/ishraquebk/) · [**ResearchGate**](https://www.researchgate.net/profile/Ishraque-Khalil) · [**Email**](mailto:Ishraque.cee@gmail.com)
 
@@ -29,35 +29,18 @@ I've spent six years turning field data into the EIA/ESIA reports that decide wh
 | Project | What it covers | Link |
 |---|---|---|
 | Portfolio & Project Archive | 30+ EIA/ESIA and feasibility studies, publications, CVs | [Repo](https://github.com/IBK015/IBK) |
-| Morphological Assessment of Sandwip Island | GIS & remote sensing analysis of coastal change — ICCESD 2024 | [ResearchGate](https://www.researchgate.net/publication/378877398_MORPHOLOGICAL_ASSESSMENT_OF_SANDWIP_ISLAND_USING_GIS_AND_REMOTE_SENSING_TECHNOLOGY) |
+| Morphological Assessment of Sandwip Island | GIS & remote sensing analysis of coastal change, ICCESD 2024 | [ResearchGate](https://www.researchgate.net/publication/378877398_MORPHOLOGICAL_ASSESSMENT_OF_SANDWIP_ISLAND_USING_GIS_AND_REMOTE_SENSING_TECHNOLOGY) |
 | Climate-Resilient Social Afforestation in Sandwip | Journal paper on community-driven coastal disaster mitigation | [DOI](https://doi.org/10.5281/zenodo.13917425) |
-| Hybrid Constructed Wetlands | Recycled concrete waste media for raw water treatment, toward the SDGs — ICCESD 2024 | [ResearchGate](https://www.researchgate.net/publication/378857908_CONSTRUCTED_WETLANDS_A_SUSTAINABLE_SOLUTION_FOR_TREATING_RAW_WATER_USING_RECYCLED_CONCRETE_WASTE_MEDIA_TO_ACHIEVE_SDGS) |
+| Hybrid Constructed Wetlands | Recycled concrete waste media for raw water treatment, toward the SDGs, ICCESD 2024 | [ResearchGate](https://www.researchgate.net/publication/378857908_CONSTRUCTED_WETLANDS_A_SUSTAINABLE_SOLUTION_FOR_TREATING_RAW_WATER_USING_RECYCLED_CONCRETE_WASTE_MEDIA_TO_ACHIEVE_SDGS) |
 
 More on the [portfolio](https://ibk015.github.io/IBK/) and the [full project archive](https://ibk015.github.io/IBK/projects.html).
-
----
-
-## 👦 About Me
-
-- 🌍 Six years in environmental impact assessment (EIA/ESIA) for ADB, JICA, World Bank, and AIIB-funded infrastructure in Bangladesh
-- 🛰️ Now studying Spatial Engineering at ITC — University of Twente, building toward urban heat and digital twin modeling
-- 🏛️ President of Orbit, the ITC student association, University of Twente (2026–2027)
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ishraquebk/) or [email](mailto:Ishraque.cee@gmail.com)
-- ⚡ Fun fact: my B.Sc. thesis was on treating river water with a wetland I helped build from recycled concrete waste
-
-### Contact Me
-
-[![LinkedIn](https://img.shields.io/badge/-Ishraque_Bin_Khalil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishraquebk/)
-[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ishraque-Khalil)
-[![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=7U_EXPQAAAAJ)
-[![Gmail](https://img.shields.io/badge/-Ishraque.cee@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Ishraque.cee@gmail.com)
 
 ---
 
 ## SKILLS & TOOLS
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IBK015/IBK/main/assets/img/skills-banner.svg" alt="GIS, remote sensing, urban heat, digital twin" width="100%">
+  <img src="https://raw.githubusercontent.com/IBK015/IBK/main/assets/img/skills-banner-github.svg" alt="GIS, remote sensing, urban heat, digital twin" width="100%">
 </p>
 
 **Geospatial & Programming** *(MSc coursework)*
@@ -80,9 +63,9 @@ More on the [portfolio](https://ibk015.github.io/IBK/) and the [full project arc
 
 ## Education
 
-**MSc Spatial Engineering** — University of Twente (ITC), Netherlands · 2025–2027 (ongoing)
+**MSc Spatial Engineering**, University of Twente (ITC), Netherlands · 2025–2027 (ongoing)
 
-**BSc Civil Engineering** — Ahsanullah University of Science and Technology (AUST), Bangladesh · 2015–2019
+**BSc Civil Engineering**, Ahsanullah University of Science and Technology (AUST), Bangladesh · 2015–2019
 
 ---
 
