@@ -57,7 +57,6 @@ More on the [portfolio](https://ibk015.github.io/IBK/) and the [full project arc
 [![AutoCAD](https://img.shields.io/badge/-AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/autocad)
 [![SuperMap](https://img.shields.io/badge/-SuperMap-1E88E5?style=flat-square)](https://www.supermap.com)
 [![ETABS](https://img.shields.io/badge/-ETABS-4A90D9?style=flat-square)](https://www.csiamerica.com/products/etabs)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
 
 ---
 
@@ -66,11 +65,3 @@ More on the [portfolio](https://ibk015.github.io/IBK/) and the [full project arc
 **MSc Spatial Engineering**, University of Twente (ITC), Netherlands · 2025–2027 (ongoing)
 
 **BSc Civil Engineering**, Ahsanullah University of Science and Technology (AUST), Bangladesh · 2015–2019
-
----
-
-<div align="center">
-
-![Ishraque's GitHub stats](https://github-readme-stats.vercel.app/api?username=IBK015&show_icons=true&theme=dark&hide_title=false&title_color=4fd1a5&icon_color=4fd1a5&text_color=e7f3ef&bg_color=0a1f1c&border_color=1e4a43)
-
-</div>
