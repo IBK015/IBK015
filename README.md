@@ -18,6 +18,7 @@ I've spent six years turning field data into the EIA/ESIA reports that decide wh
 
 | Role | Organization | Period |
 |---|---|---|
+| Resilience Visualisation Intern | [Veiligheidsregio Utrecht](https://www.vru.nl/) | Jun – Sep 2026 |
 | Environmental Specialist | [Environment and Resource Analysis Centre (ENRAC)](https://enrac.com.bd/) | Jun 2024 – Present |
 | Environmental Expert (Individual Consultant) | [New Vision Solutions Ltd.](https://newvision-bd.com/) | Jan – Jun 2024 |
 | Junior Engineer (Environment) → Project Coordinator | [Onushandhani Creeds Ltd. (O.CREEDS)](https://ocreeds.com/team) | Sep 2019 – Jan 2024 |
@@ -43,7 +44,7 @@ More on the [portfolio](https://ibk015.github.io/IBK/) and the [full project arc
   <img src="https://raw.githubusercontent.com/IBK015/IBK/main/assets/img/skills-banner-github.svg" alt="GIS, remote sensing, urban heat, digital twin" width="100%">
 </p>
 
-**Geospatial & Programming** *(MSc coursework)*
+**Geospatial & Programming** — applied in a heat resilience digital twin dashboard during my internship at Veiligheidsregio Utrecht
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org)
