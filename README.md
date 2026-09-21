@@ -65,4 +65,6 @@ More on the [portfolio](https://ibk015.github.io/IBK/) and the [full project arc
 
 **MSc Spatial Engineering**, University of Twente (ITC), Netherlands · 2025–2027 (ongoing)
 
+**Honours Degree, Change Leaders**, University of Twente, Netherlands · 2025–2026
+
 **BSc Civil Engineering**, Ahsanullah University of Science and Technology (AUST), Bangladesh · 2015–2019
