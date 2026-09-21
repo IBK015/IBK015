@@ -44,7 +44,7 @@ More on the [portfolio](https://ibk015.github.io/IBK/) and the [full project arc
   <img src="https://raw.githubusercontent.com/IBK015/IBK/main/assets/img/skills-banner-github.svg" alt="GIS, remote sensing, urban heat, digital twin" width="100%">
 </p>
 
-**Geospatial & Programming** — applied in a heat resilience digital twin dashboard during my internship at Veiligheidsregio Utrecht
+**Geospatial & Programming**, applied in a heat resilience digital twin dashboard during my internship at Veiligheidsregio Utrecht
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org)
