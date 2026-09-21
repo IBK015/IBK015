@@ -19,7 +19,7 @@ I've spent six years turning field data into the EIA/ESIA reports that decide wh
 | Role | Organization | Period |
 |---|---|---|
 | Resilience Visualisation Intern | [Veiligheidsregio Utrecht](https://www.vru.nl/) | Jun – Sep 2026 |
-| Environmental Specialist | [Environment and Resource Analysis Centre (ENRAC)](https://enrac.com.bd/) | Jun 2024 – Present |
+| Environmental Specialist | [Environment and Resource Analysis Centre (ENRAC)](https://enrac.com.bd/) | Jun 2024 – Jun 2025 |
 | Environmental Expert (Individual Consultant) | [New Vision Solutions Ltd.](https://newvision-bd.com/) | Jan – Jun 2024 |
 | Junior Engineer (Environment) → Project Coordinator | [Onushandhani Creeds Ltd. (O.CREEDS)](https://ocreeds.com/team) | Sep 2019 – Jan 2024 |
 
